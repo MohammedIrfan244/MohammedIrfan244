@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,redux and javascript**
 
-- 📫 How to reach me **mohammedirfannedumba@gmail.com**
+- 📫 How to reach me **irfanndmb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
