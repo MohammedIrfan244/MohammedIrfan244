@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> , I'm Mohammed Irfan
 ## MERN Stack Enthusiast | Full Stack Developer
-🔭 I’m currently working on web-blog-app<br>🌱 I’m currently learning Backend<br>💬 Ask me about React , Node and MongoDb<br>📫 How to reach me irfanndmb@gmail.com
+🌱 I’m currently learning Backend<br>💬 Ask me about React , Node and MongoDb<br>📫 How to reach me irfanndmb@gmail.com
 
 
 ## 🌐 Socials:
