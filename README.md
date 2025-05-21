@@ -37,7 +37,7 @@
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mohammed-irfan-n"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/mohammed-irfan-n"><img src="https://img.shields.io/badge/-Mohammed%20Irfan-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
 <a href="mailto:irfanndmb@gmail.com"><img src="https://img.shields.io/badge/-irfanndmb@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
 </p>
 <hr>
